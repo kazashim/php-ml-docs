@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>https://php-ml.org/CNAME</loc>
+  <lastmod>2019-01-14T12:08:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://php-ml.org</loc>
+  <lastmod>2019-01-14T12:08:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+</urlset>
